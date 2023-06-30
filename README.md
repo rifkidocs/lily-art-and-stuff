@@ -1,3 +1,2 @@
 # Lily Art And Stuff
-this is my project for submitting in dicoding course
-https://stalwart-sawine-74b8f9.netlify.app/
+Lily Art & Stuff is a submission project for a course on Dicoding.com. It is a website that showcases various artworks and creative stuff. The website is built solely by myself using HTML, CSS, and JavaScript.
